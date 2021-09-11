@@ -1,0 +1,15 @@
+body {
+	text-align: center ; 
+	font-family: serif ;
+	font-size: 30px;
+	background: #3657a2;	
+}
+P {
+    line-height: 1.5
+   }
+   .img-lio {
+        transform: rotate(180deg);
+   }
+    .redtext {
+        color: #465ba9;
+    }
