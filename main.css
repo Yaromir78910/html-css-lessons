@@ -2,7 +2,6 @@ body {
 	text-align: center ; 
 	font-family: serif ;
 	font-size: 30px;
-	background: #3657a2;	
 }
 P {
     line-height: 1.5
@@ -10,6 +9,26 @@ P {
    .img-lio {
         transform: rotate(180deg);
    }
-    .redtext {
-        color: #465ba9;
-    }
+
+
+/*table {*/
+/*    border: 1px solid grey;*/
+/*    border-collapse: collapse;*/
+/*}*/
+
+/*th {*/
+/*    border: 1px solid grey*/
+/*}*/
+
+/*td {*/
+/*    border: 1px solid grey;*/
+/*}*/
+
+.border-class {
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+
+{
+    border: 1px solid grey
+}
